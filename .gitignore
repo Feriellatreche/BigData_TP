@@ -1,0 +1,37 @@
+
+# Python environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Large datasets
+data/
+*.csv
+*.zip
+
+# Local environment files
+.env
+
+# Temporary files
+*.tmp
+# Large datasets
+data/
+*.zip
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db

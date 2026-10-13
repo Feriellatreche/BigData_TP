@@ -1,0 +1,4 @@
+method,total_rows,mean_close,execution_time_seconds,peak_process_memory_mb,status
+Standard Pandas,98777445,15.388846,112.95,9735.02,Success
+Pandas Chunking (100000),98777445,15.388846,91.8663,124.4,Success
+Dask DataFrame,98777445,15.388846,73.26,3910.42,Success
